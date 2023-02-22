@@ -162,3 +162,7 @@ a {
 a:hover{
 color: #ff00
 }
+
+li {
+  padding: 10px
+}
